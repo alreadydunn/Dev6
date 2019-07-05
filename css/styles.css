@@ -1,0 +1,27 @@
+body {
+	background-color: grey;
+	color: white;
+}
+
+#main {
+	width:100%;
+	text-align: center;
+	background-color: navy;
+}
+
+#buttonbox {
+	width:48%;
+	text-align: center;
+	background-color: navy;
+	padding: 3px;
+	float: left;
+}
+
+#spare {
+	width:48%;
+	text-align: center;
+	background-color: navy;
+	padding: 3px;
+	float: right;
+	height: 400px;
+}
